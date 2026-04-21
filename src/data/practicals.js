@@ -51,7 +51,7 @@ export const practicals = [
     category: "Engine Performance",
     icon: "📊",
     // ✅ PASTE YOUR SIMULATION LINK BELOW
-    simulationUrl: "#",
+    simulationUrl: "https://dheeyansh.github.io/SI-Engine-Performance-Lab/",
     // ✅ FILE IN /public/ppts/
     pptFile: "load_test_si_engine.pdf",
     tags: ["Load Test", "BHP", "RPM", "Engine Performance"],
