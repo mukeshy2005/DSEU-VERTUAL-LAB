@@ -36,7 +36,7 @@ export const practicals = [
     category: "Engine Performance",
     icon: "🔄",
     // ✅ PASTE YOUR SIMULATION LINK BELOW
-    simulationUrl: "https://grand-lebkuchen-0d8b5b.netlify.app/",
+    simulationUrl: "https://glittery-churros-20b90a.netlify.app/",
     // ✅ FILE IN /public/ppts/
     pptFile: "torque_crank_angle_si_engine.pdf",
     tags: ["Torque", "Crank Angle", "SI Engine", "Engine Dynamics"],
